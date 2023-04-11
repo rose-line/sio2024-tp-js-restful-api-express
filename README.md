@@ -98,7 +98,7 @@ Pour travailler en JavaScript côté serveur, nous devons d'abord installer Node
 
 Installez la [dernière version LTS](https://nodejs.org/fr) (_Long Time Support_) de Node.js.
 
-Quand nous travaillons avec une application JavaScript qui utilise Node.js, nous devons d'abord installer tous les packages requis par l'application. C'est le fichier `package.json` qui spécifie toutes ces dépendances. Puis lancez la commande suivante à la racine du projet pour installer les dépendances :
+Quand nous travaillons avec une application JavaScript qui utilise Node.js, nous devons d'abord installer tous les packages requis par l'application. C'est le fichier `package.json` qui spécifie toutes ces dépendances. Récupérez les sources du projet de ce dépôt si ce n'est pas encore fait (ZIP ou clone) puis, à la racine du projet (là où est le fichier `package.json`), lancez la commande suivante pour installer les dépendances :
 
 ```
 npm i
